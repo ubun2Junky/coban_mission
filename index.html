@@ -1,0 +1,51 @@
+---
+layout: default
+title: Hermana Possié
+description: Guatemala, Cobán Mission
+featured_image: /images/mission/coban.png
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Hermana Possié</h1>
+		<p>Guatemala, Cobán Mission for the Church of Jesus Christ of Latter Day Saints</p>
+
+		{% include socials.html %}
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for posts in site.posts reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ posts.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ posts.url | relative_url }}">{{ posts.title }}</a></h2>
+					<p class="post__subtitle">{{ posts.subtitle }}</p>
+					<p class="post__description">{{ posts.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
