@@ -21,6 +21,6 @@ Yo se que el evangelico de la iglesia de Jesucristo de los santos de los último
 
 <div class="gallery" data-columns="3">
     <img src="">
-    <img src="/images/mission/posts/7-10-2022/DSC_8526-Edit.jpg">
+    <img src="/images/mission/posts/7-10-2022/Coban-Guatemala-Temple.jpeg">
     <img src="">
 </div>
