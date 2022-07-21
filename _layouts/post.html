@@ -26,15 +26,12 @@ layout: default
 			{{ page.content }}
 
 		</article>
-
+		<!-- Begin Comments -->
+		{% if page.comments != false %}
+		  <div id="comments">
+		    {% include comments.html %}
+		    </div>
+		{% endif %}
+		<!-- End Comments -->
 	</div>
-
 </section>
-
-<!-- Begin Comments -->
-{% if page.comments != false %}
-  <div id="comments">
-    {% include comments.html %}
-    </div>
-{% endif %}
-<!-- End Comments -->
