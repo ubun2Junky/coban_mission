@@ -1,4 +1,5 @@
 <form class="js-form form" method="post" action="{{ site.staticman_url }}">
+  <input name="options[redirect]" type="hidden" value="https://coban.possiefamily.com">
   <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
   <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
   <input type="hidden" id="comment-replying-to-uid" name="fields[replying_to_uid]" value="">
@@ -26,7 +27,7 @@
         <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Your email (optional)"/>
       </label>
     </div>
-    
+
 <!--    <div class="checkbox-email-notification">
       <input type="checkbox" name="options[subscribe]" value="email">
         Notify me of new comments on this post.
@@ -37,7 +38,7 @@
         <input class="textfield__input" name="fields[hp]" id="hp" type="text" placeholder="Leave blank">
       </label>
     </div>
-    
+
 <!--     <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div> -->
 
     <button class="button" id="comment-form-submit">Submit</button>
@@ -56,4 +57,3 @@
     <button class="button mdl-button--colored mdl-js-button mdl-js-ripple-effect js-close-modal">Close</button>
   </div>
 </article>
-
