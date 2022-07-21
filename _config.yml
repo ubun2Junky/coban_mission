@@ -3,6 +3,8 @@ site: Hermana Possié
 url: https://coban.possiefamily.com
 baseurl:
 
+staticman_url: https://staticman-ubun2junky.herokuapp.com/v3/entry/github/ubun2Junky/coban_mission/gh-pages/comments
+
 collections:
   pages:
     output: true
