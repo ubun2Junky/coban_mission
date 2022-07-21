@@ -6,7 +6,7 @@
 @import "_reset";
 @import "_mixins";
 @import "_plugins";
-
+@import "_comment-styles";
 
 
 // - - - - - - - - - - Variables
@@ -143,5 +143,3 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
 @import "_includes/_listing";
 @import "_includes/_hero";
-
-
