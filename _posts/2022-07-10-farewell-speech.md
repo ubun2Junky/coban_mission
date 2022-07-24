@@ -5,6 +5,8 @@ date: 2022-07-10 00:00:00
 description: 'My farewell speech.'
 featured_image: '/images/posts/7-10-2022/Coban-Guatemala-Temple.jpeg'
 ---
+![](/images/posts/7-10-2022/Coban-Guatemala-Temple.jpeg)
+
 Hello brothers and sisters, I'm so nervous but so excited to be up here today. I always knew this day would come, however I would have never guessed it would come this fast. First off I would like to thank those who have come and taken the time to hear my speech and support me today, it means so much to me. I have been to many farewells and have asked many of those missionaries if they were scared of going on a mission. Many of them would laugh and say that they were excited to finally get out of their house, fly to a foreign area, and teach the gospel to the people. As a preparing missionary, I always wondered about those conversations. Were they really not scared at all? So to any of the future missionaries out there I would like to be very honest with you. Currently I am feeling a huge mixture of feelings. I am so excited to fly to a foreign area and teach the gospel, but I am also so scared to do just that. I have faced many challenges since signing and accepting my mission call, even before that I was struggling with whether a mission is a good idea for me right now. I’m sure all of us have experienced feelings and challenges like that when making a life changing decision. However, after confronting some of those challenges I am so proud to say that I am so ready to embark on this exciting and challenging journey as a missionary to serve the people of Coban Guatemala.
 
 I come from a family of “pioneers” per say. On both sides of my family, my grandparents encountered missionaries. Although conversion might not have happened in an instant, my family later chose to go on their own “trek” to be closer to the gospel. I am grateful for their sacrifice and bravery in doing so.
@@ -18,9 +20,3 @@ I want to say thank you to those who have made an influence on my life. Thank yo
 I am grateful for the love I've received from many of you as I have been in this ward. I will be sure to love my new upcoming wards and branches, leaders, companions, friends, and families just as you have all taught me to. Thank you for being here for me again, and for showing me love as I am (trying) to be brave enough to be a good missionary. I would like to close with my testimony in spanish. Pardon the pronunciation, I'm sure I'll be much better at it when I come back.
 
 Yo se que el evangelico de la iglesia de Jesucristo de los santos de los últimos días es verdadera. Yo testifico que el libro de mormon es verdadero también. Yo se que leyendo el libro de mormon el espíritu santo está con usted. Yo testifico que a través del espíritu podemos acercarnos a Dios. Estoy agradecida por el evangelico y el dios y su hijo. Y este es mi testimonio, yo lo comparto en el nombre de Jesucristo, amén.
-
-<div class="gallery" data-columns="3">
-    <img src="">
-    <img src="/images/posts/7-10-2022/Coban-Guatemala-Temple.jpeg">
-    <img src="">
-</div>
