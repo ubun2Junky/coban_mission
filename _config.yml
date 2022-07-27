@@ -1,5 +1,7 @@
 site: Hermana Possié
 
+timezone: America/Denver
+
 url: https://coban.possiefamily.com
 baseurl:
 
