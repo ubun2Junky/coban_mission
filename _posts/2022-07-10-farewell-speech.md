@@ -1,7 +1,7 @@
 ---
 title: "Farewell Speech"
 subtitle: 'July 10, 2022'
-date: 2022-07-10 00:00:00
+date: 2022-07-10 00:00:00 -700
 description: 'My farewell speech.'
 featured_image: '/images/posts/7-10-2022/Coban-Guatemala-Temple.jpeg'
 ---

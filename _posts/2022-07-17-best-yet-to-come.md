@@ -1,7 +1,7 @@
 ---
 title: "The best is yet to come."
 subtitle: 'July 17, 2022'
-date: 2022-07-17 00:00:00
+date: 2022-07-17 00:00:00 -700
 description: 'Buenas días amigos! I am so happy! Today was my setting apart for my mission.'
 featured_image: '/images/posts/7-17-2022/IMG_3424.JPG'
 ---

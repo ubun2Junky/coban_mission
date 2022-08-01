@@ -1,7 +1,7 @@
 ---
 title: "I love to see the temple, I'm going there someday..."
 subtitle: 'May 5, 2022'
-date: 2022-05-05 00:00:00
+date: 2022-05-05 00:00:00 -700
 description: 'Hola todos!! Today was the day I’ve been waiting for!! My first endowment session at the Ogden temple.'
 featured_image: '/images/posts/5-6-2022/2022-05-06_10-08-43_302.png'
 ---
