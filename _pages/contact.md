@@ -2,7 +2,7 @@
 title: Contact
 subtitle: Send me an email, I'd love to hear from you!
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/pages/contact/contact2.png
+featured_image: /images/pages/contact/contact2.jpg
 ---
 
 {% include contact-form.html %}
