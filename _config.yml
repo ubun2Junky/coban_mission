@@ -3,13 +3,16 @@ site: Hermana Possié
 timezone: America/Denver
 
 url: https://coban.possiefamily.com
-baseurl: 
+baseurl:
 
 staticman_url: https://staticman-ubun2junky.herokuapp.com/v3/entry/github/ubun2Junky/coban_mission/gh-pages/comments
 
 reCaptcha:
-    siteKey: 6Le4MQkhAAAAAPZqWcfqsnYjga7X6xszjUHDSlf5
-    secret: NyNe9Nrit274m9IaaZrs50ovOth37qJlvnJufMnYVjRQnKoPThQNRYE34JYw+EL4aQbyeZSPihtCXccjMI8evJ5oaQOdanfUT0ZipSfApAQOBJw7jxIb2RIhts97Nf+nUB/FyiRZ6VNd+n9qh17nRjsVCXx4jDF5prv6Sgauq0Qntdu4ODNP0RiVjIUneXX8rZ1xIHxlVwK38ykNsN+INhOo9w605qjz6KY5ISWGLHOPJ8+JAZAj08swf2MyG9LrW/mPqAeSV9/dCfHrKdnvMm3ADr202CC+cluBJxImRBObHr8N7GekIbZ4DSDgOL5yM+cFloxEtC/ml9VBpoGRZw==
+    enabled: false
+    siteKey:
+    secret:
+    # siteKey: 6Le4MQkhAAAAAPZqWcfqsnYjga7X6xszjUHDSlf5
+    # secret: NyNe9Nrit274m9IaaZrs50ovOth37qJlvnJufMnYVjRQnKoPThQNRYE34JYw+EL4aQbyeZSPihtCXccjMI8evJ5oaQOdanfUT0ZipSfApAQOBJw7jxIb2RIhts97Nf+nUB/FyiRZ6VNd+n9qh17nRjsVCXx4jDF5prv6Sgauq0Qntdu4ODNP0RiVjIUneXX8rZ1xIHxlVwK38ykNsN+INhOo9w605qjz6KY5ISWGLHOPJ8+JAZAj08swf2MyG9LrW/mPqAeSV9/dCfHrKdnvMm3ADr202CC+cluBJxImRBObHr8N7GekIbZ4DSDgOL5yM+cFloxEtC/ml9VBpoGRZw==
 
 collections:
   pages:
