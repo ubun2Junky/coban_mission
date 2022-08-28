@@ -16,7 +16,7 @@
       data: $(this).serialize(),
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
-        showModal('Comment submitted', 'Thanks! Your comment will appear shortly. Please reload the page in a few minutes.');
+        showModal('Comment submitted', 'Thank you! Your comment will appear shortly. Please reload the page in a few minutes.');
 
         $("#comment-form-submit")
           .html("Submit");
