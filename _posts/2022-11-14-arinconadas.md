@@ -25,7 +25,7 @@ Love you all!
 Arianna
 
 Fotos:
-1. What it looks like before our 4hr hike to Arinconadas
+1. What it looks like before our hike to Arinconadas
 2. Rocky road is tough on the feet.
 3. Hna. Carolina making vases for candles.
 4. Lunch time!!
