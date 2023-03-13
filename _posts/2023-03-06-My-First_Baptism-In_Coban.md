@@ -44,5 +44,23 @@ Ari
     <img src="/images/posts/03-06-2023/image_16_03-06-2023.jpg">
     <img src="/images/posts/03-06-2023/image_17_03-06-2023.jpg">
 </div>
+Fotos:
+1. 
+2. Hna. Delgado and I
+3. Hna. Arce and I
+4. Cute decoration at restaurant
+5. Posing with peacock
+6. Hna. Arce and I
+7. Hna. Morales
+8. Hna. Morales, Kauer, Morales, Arce and I
+9. Hna. Kauer
+10. Missionary Uno night!!
+11. Hna. Delgado and I
+12. Hna. Narda and family
+13. Hna. Delgado and I
+14. Hna. Kauer and I at Panda Express!!
+15. Hna. Morales, Kauer, Delgado, Chacaltana, Me, Arce, 
+16. Hna Delgado and I cleaning the font.
+17. Hermano Angel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WMbrvajB6QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
