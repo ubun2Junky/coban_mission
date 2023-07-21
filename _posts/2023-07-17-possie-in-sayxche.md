@@ -26,6 +26,8 @@ I love y'all!!!
 💕 Talk to you guys monday!
 ~ Ari
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fMnJ4n0x-e8?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="gallery" data-columns="2">
     <img src="/images/posts/07-17-2023/image_01_07-17-2023.jpg">
     <img src="/images/posts/07-17-2023/image_02_07-17-2023.jpg">
