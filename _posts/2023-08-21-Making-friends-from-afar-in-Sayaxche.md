@@ -2,7 +2,7 @@
 title: "Week 56"
 subtitle: 'August 21, 2023'
 date: 2023-08-21 00:00:00 -700
-description: "Making Friends From Afar in Sayaxche...."
+description: "Making Friends From Home in Sayaxche...."
 featured_image: 'images/posts/08-21-2023/image_16_08-21-2023.jpg'
 ---
 ![](/images/posts/08-21-2023/image_16_08-21-2023.jpg)
